@@ -2,4 +2,6 @@
 
 ---
 
-<p>section break</p>
+<div align="center">
+  test
+</div>

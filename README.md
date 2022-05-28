@@ -2,6 +2,6 @@
 
 ---
 
-<div align="center" style="background-color: red;">
+<div align="center">
   test
 </div>
